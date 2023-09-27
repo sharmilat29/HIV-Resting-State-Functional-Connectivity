@@ -23,4 +23,7 @@ There were no significant effects of HIV on RSFC in our relatively large cohort 
 
 ## Figures
 
+[Figure 1](/p14.png)
+
+[Figure 2](/p15.png)
 
